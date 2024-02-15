@@ -1,1 +1,1 @@
-# SoftEng2-3CS1
+## Compilation of face-to-face laboratory activities
